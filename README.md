@@ -13,3 +13,8 @@
   * use trailing return type, except with void
   * const by default
 * Follow CppCoreGuidelines
+
+## Requirements
+
+### Clang Tidy 8.0.0
+List of Clang-Tidy checks can be found at https://releases.llvm.org/8.0.0/tools/clang/tools/extra/docs/clang-tidy/checks/list.html
