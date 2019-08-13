@@ -18,3 +18,6 @@
 
 ### Clang Tidy 8.0.0
 List of Clang-Tidy checks can be found at https://releases.llvm.org/8.0.0/tools/clang/tools/extra/docs/clang-tidy/checks/list.html
+
+### Clang Format 8.0.0
+List of Clang-Format style options can be found at http://releases.llvm.org/8.0.0/tools/clang/docs/ClangFormatStyleOptions.html
