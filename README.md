@@ -16,9 +16,9 @@
 
 ## Enforced Style in clang-format
 
-[X] Max line length 80
-[X] curly bracket `{` for function will be on the newline
-[X] Pointer Alignment on the left
+- [x] Max line length 80
+- [x] curly bracket `{` for function will be on the newline
+- [x] Pointer Alignment on the left
 
 ## Requirements
 
