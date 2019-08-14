@@ -17,3 +17,5 @@ BraceWrapping:
   SplitEmptyNamespace: false
 BreakBeforeBraces: Custom
 ColumnLimit: 80
+DerivePointerAlignment: false
+PointerAlignment: Left
